@@ -8,6 +8,6 @@
 - Syntaxe des `dataclass`
 - Danger des copier/coller
 - Essayer de rendre les états non valides non représentable
-- Intérêt des structures immutables (frozen et hash) pour utiliser des `set` et `dictionnaires`
+- Intérêt des structures immutables (frozen et hash) pour utiliser des `set` et `dict`
 - Notion de signature de fonction
 - Intérêt d'avoir des fonctions totales
