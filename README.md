@@ -7,6 +7,7 @@ Cours de supply pour le Master MECEN année scolaire 2023-2024
 - Dernier cours le 28 Février
 - Projet par groupe de 2 jusqu'à début avril
 - Présentation oral puis rendu du code
+- Plus de détails sur les attendus dans le README du dossier `projets`
 
 ## Introduction au langage python
 
