@@ -13,7 +13,7 @@ Cours de supply pour le Master MECEN année scolaire 2023-2024
 
 [Ici](https://www.idpoisson.fr/perrollaz/cours_python/PLAN.html)
 
-## Ressources additionnelles
+## Ressources additionnelles en ligne
 
 - [calmcode](https://calmcode.io/): site présentant de nombreux outils/techniques
   en lien avec python par des vidéos.
@@ -30,3 +30,18 @@ Cours de supply pour le Master MECEN année scolaire 2023-2024
   Description d'un système de conception de documentation!
 - [12 Steps for Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/):
   Recommandations pour la gestion d'un projet informatique!
+
+## Ouvrages accessibles en BU
+
+- _Grokking Algorithms_ de _Aditya Bhargava_:
+  introduction en douceur et illustrée à quelques algorithmes classiques.
+- _Classic Computer Science Problems in Python_ de _David Kopec_:
+  résolution de problèmes classiques avec du code soigné.
+- _Effective Python_ de _Brett Slatkin_:
+  recense les pièges classiques en python
+- _Fluent Python_ de _Luciano Ramalho_:
+  pour approfondir ses connaissances en python.
+- _The Algorithm Design Manual_ de _Steven Skiena_:
+  Pour une approche pragmatique de l'algorithmique en conditions réelles.
+- _Grokking Simplicity_ de _Eric Normand_:
+  recommandations pour organiser son code.
