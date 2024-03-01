@@ -24,3 +24,4 @@
   - Commande de génération d'un fichier entrée
   - Commande de résolution à partir d'un fichier entrée
   - Commande de visualisation d'un fichier sortie
+- On réécrira le projet en utilisant `pydantic` pour les dataclass et leur sérialisation
