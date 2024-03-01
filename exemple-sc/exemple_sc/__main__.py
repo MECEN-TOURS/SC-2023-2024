@@ -4,9 +4,11 @@
 
 Exemple d'utilisation de typer
 """
-from .lib_taches import Tache, CahierDesCharges
+from .lib_taches import Tache, CahierDesCharges, calcule_chronologie
 from typer import Typer  # type: ignore
-from serde.json import to_json
+from serde.json import to_json, from_json  # type: ignore
+from rich import print  # type:ignore
+from rich.table import Table
 
 app = Typer()
 
@@ -32,7 +34,16 @@ def demonstration(nom_fichier: str = "demo.json"):
 
 @app.command()
 def resolution(nom_fichier: str):
-    print("Not implemented")
+    with open(nom_fichier, "r") as fichier:
+        cahier = from_json(c=CahierDesCharges, s=fichier.read())
+    solution = calcule_chronologie(cahier)
+    table = Table(title="Planning")
+    table.add_column(header="Nom de Tache", justify="center", style="red")
+    table.add_column(header="Debut", justify="right")
+    table.add_column(header="Fin", justify="right")
+    for tache, intervalle in solution.items():
+        table.add_row(tache.nom, str(intervalle.debut), str(intervalle.fin))
+    print(table)
 
 
 if __name__ == "__main__":

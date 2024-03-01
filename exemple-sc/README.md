@@ -24,4 +24,10 @@
   - Commande de génération d'un fichier entrée
   - Commande de résolution à partir d'un fichier entrée
   - Commande de visualisation d'un fichier sortie
-- On réécrira le projet en utilisant `pydantic` pour les dataclass et leur sérialisation
+
+## A venir
+
+- Réécriture avec pydantic
+- Ajout de tests d'intégration
+- Création d'un README complet de projet
+- Eventuellement ajout d'une interface graphique avec streamlit
