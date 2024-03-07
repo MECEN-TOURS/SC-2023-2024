@@ -45,3 +45,9 @@ Cours de supply pour le Master MECEN année scolaire 2023-2024
   Pour une approche pragmatique de l'algorithmique en conditions réelles.
 - _Grokking Simplicity_ de _Eric Normand_:
   recommandations pour organiser son code.
+
+## Pour les utilisateurs de windows
+
+- [Playlist d'apprentissage de VScode](https://youtu.be/B-s71n0dHUk?list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6)
+- [Powershell tutorial](https://youtu.be/IHrGresKu2w) première vidéo d'une _énorme_ playlist
+  consacrée à _powershell_
