@@ -8,6 +8,7 @@ Cours de supply pour le Master MECEN année scolaire 2023-2024
 - Projet par groupe de 2 jusqu'à début avril
 - Présentation oral puis rendu du code
 - Plus de détails sur les attendus dans le README du dossier `projets`
+- On trouvera un exemple de projet [Ici](https://github.com/VPerrollaz/exemple-supply-chain)
 
 ## Introduction au langage python
 
